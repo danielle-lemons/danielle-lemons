@@ -6,6 +6,12 @@ Army National Guard veteran. My own web design business, [daniellelemons.com](ht
 
 **Website:** [daniellelemons.com](https://daniellelemons.com) · [About](https://daniellelemons.com/about) · [Photos](https://daniellelemons.com/photos) · [FAQ](https://danielle-lemons.github.io/faq.html)
 
+## In the press
+
+- **Small Biz Leader, November 9, 2026:** [How Small Businesses Keep Running When the Owner Is Away](https://smallbizleader.com/qa/how-small-businesses-keep-running-when-the-owner-is-away/). "Could the newest person on the team follow it in their first week? If not, the business still depends on whoever has it in their head."
+- **Stonebridge Herald, November 2026:** [Cloud-Based Collaboration Platforms: 46 Experts Share Top Setup Tips](https://stonebridgeherald.com/article/cloud-based-collaboration-platforms/). "Plan the transition around the people, not just the platform."
+- Expert source profile: [Qwoted](https://app.qwoted.com/sources/danielle-lemons)
+
 ## Recent writing
 
 - [Shared Mailboxes Instead of Shared Logins](https://daniellelemons.com/writing-shared-mailboxes-instead-of-shared-logins)
@@ -28,5 +34,6 @@ All articles: [daniellelemons.com](https://daniellelemons.com) · [Writing index
 - [LinkedIn](https://www.linkedin.com/in/daniellelemons)
 - [DirecTech Connect bio](https://directech.net/danielle-lemons/)
 - [Bluesky](https://bsky.app/profile/daniellelemons.com)
+- [Guide: Business Internet and Backup Connections](https://danielle-lemons.github.io/guide-business-internet-and-backup.html)
 
 Contact: danielle@directech.net · 615-861-9042
